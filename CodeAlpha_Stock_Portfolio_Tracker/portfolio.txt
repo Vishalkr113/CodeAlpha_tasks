@@ -1,0 +1,7 @@
+===== STOCK PORTFOLIO SUMMARY =====
+
+AAPL -> 3 shares = $540
+TSLA -> 2 shares = $500
+
+-----------------------------------
+Total Investment Value = $1040
